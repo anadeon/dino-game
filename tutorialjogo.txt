@@ -1,0 +1,4 @@
+Bem-vindo ao tutorial do Dino Game!
+- Use 'P' para pular e evitar obstaculos.
+- Quanto mais longe voce for, maior sera sua pontuacao.
+- Boa sorte e divirta-se!
